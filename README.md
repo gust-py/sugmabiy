@@ -1,2 +1,1 @@
-# sugmabiy
-k
+https://gust-py.github.io/sugmabiy/
